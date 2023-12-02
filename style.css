@@ -1,0 +1,29 @@
+
+html, body{
+    height: 100%;
+    width:100%;
+    font-family:'Roboto',sans-serif;
+   
+}
+.button{
+    background-color: rgb(121, 213, 241);
+    background-blend-mode: luminosity;
+    height: 10vh;
+    width: 10vw;
+    font-size: larger;
+    border-radius: 25%;
+}
+.operator{
+   background-color: rgb(240, 141, 12);
+    background-blend-mode: luminosity;
+    height: 10vh;
+    width: 10vw;
+    font-size:x-large;
+    border-radius: 25%;
+}
+
+.input{
+    border-color: black;
+    height: 5vh;
+    width: 20vw;
+}
